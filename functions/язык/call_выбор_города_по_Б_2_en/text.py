@@ -1,0 +1,1 @@
+text = ["Select the case of the city."]
