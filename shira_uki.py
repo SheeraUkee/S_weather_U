@@ -1,5 +1,3 @@
-import site
-
 from aiogram import executor
 
 from config import dp
@@ -36,7 +34,7 @@ call_sity_ABC.register_message_handler_call_sity_en(dp)
 from functions.язык.call_выбор_города_по_Б_2_en.back import back
 
 back.register_message_handler_call_dark_en(dp)
-from functions.язык.язык_en import язык
+from functions.язык.ru.язык_en import язык
 
 язык.register_message_handler_call_lang_en(dp)
 from functions.язык.ru import start1
@@ -45,5 +43,23 @@ start1.register_message_handler_command_start1(dp)
 from functions.язык.call_sity_en import sity_1
 
 sity_1.register_message_handler_call_sity_info_key_en(dp)
+from functions.язык.call_выбор_города_по_Б_2_en import call_sity_ABC
+
+call_sity_ABC.register_message_handler_call_sity_en(dp)
+from functions.язык.call_выбор_города import call_sity_A
+
+call_sity_A.register_message_handler_call_ABC_sity_en(dp)
+from functions.язык.call_выбор_города.bark import call_sity_ABC_1
+
+call_sity_ABC_1.register_message_handler_call_sity_en(dp)
+from functions.язык.Morse_Code import Morse
+
+Morse.register_message_handler_morze_ABC(dp)
+from functions.язык.Morse_Code import sity_m
+
+sity_m.register_message_handler_call_ABC_sity_m(dp)
+from functions.язык.Morse_Code import SITY_MM
+
+SITY_MM.register_message_handler_call_sity_info_key_mm(dp)
 if __name__ == '__main__':
     executor.start_polling(dp)

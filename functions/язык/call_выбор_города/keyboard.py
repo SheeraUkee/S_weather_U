@@ -17,7 +17,7 @@ sity_kz_A.insert(InlineKeyboardButton(text=sity[0][10], callback_data=sity[0][10
 sity_kz_A.insert(InlineKeyboardButton(text=sity[0][11], callback_data=sity[0][11]))
 sity_kz_A.insert(InlineKeyboardButton(text=sity[0][12], callback_data=sity[0][12]))
 sity_kz_A.insert(InlineKeyboardButton(text=sity[0][13], callback_data=sity[0][13]))
-sity_kz_A.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_1"))
+sity_kz_A.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_en111"))
 
 
 sity_kz_Б = InlineKeyboardMarkup()
@@ -25,19 +25,19 @@ sity_kz_Б.insert(InlineKeyboardButton(text=sity[1][0], callback_data=sity[1][0]
 sity_kz_Б.insert(InlineKeyboardButton(text=sity[1][1], callback_data=sity[1][1]))
 sity_kz_Б.insert(InlineKeyboardButton(text=sity[1][2], callback_data=sity[1][2]))
 #  кнопка вернуться назад
-sity_kz_Б.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_1"))
+sity_kz_Б.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_en111"))
 
 
 sity_kz_Д = InlineKeyboardMarkup()
 sity_kz_Д.insert(InlineKeyboardButton(text=sity[2][0], callback_data=sity[2][0]))
-sity_kz_Д.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_1"))
+sity_kz_Д.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_en111"))
 
 
 sity_kz_Е = InlineKeyboardMarkup()
 sity_kz_Е.insert(InlineKeyboardButton(text=sity[3][0], callback_data=sity[3][0]))
 sity_kz_Е.insert(InlineKeyboardButton(text=sity[3][1], callback_data=sity[3][1]))
 sity_kz_Е.insert(InlineKeyboardButton(text=sity[3][2], callback_data=sity[3][2]))
-sity_kz_Е.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_1"))
+sity_kz_Е.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_en111"))
 
 
 sity_kz_Ж = InlineKeyboardMarkup()
@@ -49,14 +49,14 @@ sity_kz_Ж.insert(InlineKeyboardButton(text=sity[4][4], callback_data=sity[4][4]
 sity_kz_Ж.insert(InlineKeyboardButton(text=sity[4][5], callback_data=sity[4][5]))
 sity_kz_Ж.insert(InlineKeyboardButton(text=sity[4][6], callback_data=sity[4][6]))
 #  кнопка вернуться назад
-sity_kz_Ж.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_1"))
+sity_kz_Ж.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_en111"))
 
 
 sity_kz_З = InlineKeyboardMarkup()
 sity_kz_З.insert(InlineKeyboardButton(text=sity[5][0], callback_data=sity[5][0]))
 sity_kz_З.insert(InlineKeyboardButton(text=sity[5][1], callback_data=sity[5][1]))
 #  кнопка вернуться назад
-sity_kz_З.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_1"))
+sity_kz_З.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_en111"))
 
 
 sity_kz_К = InlineKeyboardMarkup()
@@ -74,27 +74,27 @@ sity_kz_К.insert(InlineKeyboardButton(text=sity[6][10], callback_data=sity[6][1
 sity_kz_К.insert(InlineKeyboardButton(text=sity[6][11], callback_data=sity[6][11]))
 sity_kz_К.insert(InlineKeyboardButton(text=sity[6][12], callback_data=sity[6][12]))
 #  кнопка вернуться назад
-sity_kz_К.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_1"))
+sity_kz_К.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_en111"))
 
 
 sity_kz_Л = InlineKeyboardMarkup()
 sity_kz_Л.insert(InlineKeyboardButton(text=sity[7][0], callback_data=sity[7][0]))
 sity_kz_Л.insert(InlineKeyboardButton(text=sity[7][1], callback_data=sity[7][1]))
 #  кнопка вернуться назад
-sity_kz_Л.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_1"))
+sity_kz_Л.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_en111"))
 
 
 sity_kz_М = InlineKeyboardMarkup()
 sity_kz_М.insert(InlineKeyboardButton(text=sity[8][0], callback_data=sity[8][0]))
 sity_kz_М.insert(InlineKeyboardButton(text=sity[8][1], callback_data=sity[8][1]))
 #  кнопка вернуться назад
-sity_kz_М.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_1"))
+sity_kz_М.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_en111"))
 
 
 sity_kz_Н = InlineKeyboardMarkup()
 sity_kz_Н.insert(InlineKeyboardButton(text=sity[9][0], callback_data=sity[9][0]))
 #  кнопка вернуться назад
-sity_kz_Н.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_1"))
+sity_kz_Н.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_en111"))
 
 
 sity_kz_П = InlineKeyboardMarkup()
@@ -102,14 +102,14 @@ sity_kz_П.insert(InlineKeyboardButton(text=sity[10][0], callback_data=sity[10][
 sity_kz_П.insert(InlineKeyboardButton(text=sity[10][1], callback_data=sity[10][1]))
 sity_kz_П.insert(InlineKeyboardButton(text=sity[10][2], callback_data=sity[10][2]))
 #  кнопка вернуться назад
-sity_kz_П.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_1"))
+sity_kz_П.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_en111"))
 
 
 sity_kz_Р = InlineKeyboardMarkup()
 sity_kz_Р.insert(InlineKeyboardButton(text=sity[11][0], callback_data=sity[11][0]))
 sity_kz_Р.insert(InlineKeyboardButton(text=sity[11][1], callback_data=sity[11][1]))
 #  кнопка вернуться назад
-sity_kz_Р.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_1"))
+sity_kz_Р.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_en111"))
 
 
 sity_kz_С = InlineKeyboardMarkup()
@@ -123,7 +123,7 @@ sity_kz_С.insert(InlineKeyboardButton(text=sity[12][6], callback_data=sity[12][
 sity_kz_С.insert(InlineKeyboardButton(text=sity[12][7], callback_data=sity[12][7]))
 sity_kz_С.insert(InlineKeyboardButton(text=sity[12][8], callback_data=sity[12][8]))
 #  кнопка вернуться назад
-sity_kz_С.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_1"))
+sity_kz_С.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_en111"))
 
 
 sity_kz_Т = InlineKeyboardMarkup()
@@ -136,7 +136,7 @@ sity_kz_Т.insert(InlineKeyboardButton(text=sity[13][5], callback_data=sity[13][
 sity_kz_Т.insert(InlineKeyboardButton(text=sity[13][6], callback_data=sity[13][6]))
 sity_kz_Т.insert(InlineKeyboardButton(text=sity[13][7], callback_data=sity[13][7]))
 #  кнопка вернуться назад
-sity_kz_Т.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_1"))
+sity_kz_Т.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_en111"))
 
 
 sity_kz_У = InlineKeyboardMarkup()
@@ -145,19 +145,19 @@ sity_kz_У.insert(InlineKeyboardButton(text=sity[14][1], callback_data=sity[14][
 sity_kz_У.insert(InlineKeyboardButton(text=sity[14][2], callback_data=sity[14][2]))
 sity_kz_У.insert(InlineKeyboardButton(text=sity[14][3], callback_data=sity[14][3]))
 #  кнопка вернуться назад
-sity_kz_У.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_1"))
+sity_kz_У.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_en111"))
 
 
 sity_kz_Ф = InlineKeyboardMarkup()
 sity_kz_Ф.insert(InlineKeyboardButton(text=sity[15][0], callback_data=sity[15][0]))
 #  кнопка вернуться назад
-sity_kz_Ф.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_1"))
+sity_kz_Ф.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_en111"))
 
 
 sity_kz_Х = InlineKeyboardMarkup()
 sity_kz_Х.insert(InlineKeyboardButton(text=sity[16][0], callback_data=sity[16][0]))
 #  кнопка вернуться назад
-sity_kz_Х.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_1"))
+sity_kz_Х.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_en111"))
 
 
 

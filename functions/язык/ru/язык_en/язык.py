@@ -1,8 +1,8 @@
 from aiogram import types, Dispatcher
 
 from config import bot, dp
-from functions.язык.язык_en.keyboard import lang
-from functions.язык.язык_en.text import lang_text
+from functions.язык.ru.язык_en.keyboard import lang
+from functions.язык.ru.язык_en.text import lang_text
 
 
 @dp.callback_query_handler(text="language1")

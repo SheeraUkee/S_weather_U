@@ -102,7 +102,6 @@ async def call_weather_sity_key_en(call: types.CallbackQuery):
 
     def_info_weather = InlineKeyboardMarkup()
     def_info_weather.add(InlineKeyboardButton(text=key_sity[0], callback_data=call.data))
-    def_info_weather.insert(InlineKeyboardButton(text=key_sity[1], callback_data=call.data))
     def_info_weather.insert(InlineKeyboardButton(text=key_sity[3], callback_data="delet"))
     def_info_weather.add(InlineKeyboardButton(text=key_sity[2], callback_data = call_index))
     if call.data == "Ekibastuz":
@@ -249,7 +248,7 @@ async def call_weather_sity_key_en(call: types.CallbackQuery):
         area = "Актюбинская область"
     elif call.data == "Almaty":# 8.
         a = "Almaty, KZ"
-        area = "Алматы"
+        area = "Алматинская область"
     elif call.data == "Altaysk":# 9.
         a = "Altaysk, KZ"
         area = "Кызылординская область"
@@ -385,33 +384,33 @@ async def call_weather_sity_key_en(call: types.CallbackQuery):
     print(weather_temp, weather_main, weather_feels_like, weather_humidity, weather_visibility, weather_wind, end="\n")
 
     if weather_main == "Clouds":
-        tran = "Облачно с прояснениями ⛅ ️️"
+        tran = "Clouds ⛅ ️️"
 
     elif weather_main == "Mist":
-        tran = "Пасмурно ☁ ️"
+        tran = "Mist ☁ ️"
 
     elif weather_main == "Fog":
-        tran = "Пасмурно ☁ ️"
+        tran = "Fog ☁ ️"
 
     elif weather_main == "Smoke":
-        tran = "Пасмурно ☁ ️"
+        tran = "Smoke ☁ ️"
 
     elif weather_main == "Clear":
-        tran = "Пасмурно ☁ ️"
+        tran = "Clear ☀️"
 
     elif weather_main == "Snow":
-        tran = "Пасмурно"
+        tran = "Snow 🥶"
 
     elif weather_main == "Rain":
-        tran = "Пасмурно 🌧"
+        tran = "Rain 🌧"
 
     else:
         tran = "⁉️⁉️"
 
-    p = "Город " + call.data + "\n" + area + "\n" + tran + "\n" + str(int(weather_temp)) + " °C" + "\n" + "По ощущениям " + \
-        str(int(weather_feels_like)) + " °C" + "\n" + "Влажность " + str(weather_humidity) + \
-        " %" + "\n" + "Видимость " + str(float(weather_visibility / 1000)) + " км." + "\n" + "Скорость ветра " + \
-        str(weather_wind) + " м./с. "
+    p = "Sity " + call.data + "\n" + area + "\n" + tran + "\n" + str(int(weather_temp)) + " °C" + "\n" + "Feels like " + \
+        str(int(weather_feels_like)) + " °C" + "\n" + "Влажность Humidity" + str(weather_humidity) + \
+        " %" + "\n" + "Visibility " + str(float(weather_visibility / 1000)) + " км." + "\n" + "Wind speed " + \
+        str(weather_wind) + " m. s. "
 
     print(p)
     await bot.delete_message(call.from_user.id, call.message.message_id)

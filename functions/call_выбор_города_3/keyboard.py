@@ -34,6 +34,8 @@ sity_kz_A.insert(InlineKeyboardButton(text=sity[0][13], callback_data=sity[0][13
 sity_kz_A.insert(InlineKeyboardButton(text=sity[0][14], callback_data=sity[0][14]))
 #  кнопка вернуться назад
 sity_kz_A.add(InlineKeyboardButton(text=bark[0], callback_data="call_sity_1"))
+sity_kz_A.add(InlineKeyboardButton(text="Морза", callback_data="12"))
+
 
 
 sity_kz_Б = InlineKeyboardMarkup()
