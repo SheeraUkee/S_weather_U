@@ -5,79 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a611f177-8eb5-4ab2-b811-08caa7ebbc8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/delet/deleter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delet/deletr1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ru/back1ru.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ru/back2ru.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ru/ru1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ru/ru2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ru/ru_and_back3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/call_sity_4/sity.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/call_sity_4/text.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/call_выбор_города_3/bark/call_sity_ABC_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/call_выбор_города_3/bark/kb_text.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/call_выбор_города_3/bark/keyboard.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/call_выбор_города_3/bark/text.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/call_выбор_города_3/call_sity_A.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/call_выбор_города_3/kb_text.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/call_выбор_города_3/keyboard.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/call_выбор_города_3/text.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/call_выбор_города_по_Б_2/back/back.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/call_выбор_города_по_Б_2/back/keyboard.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/call_выбор_города_по_Б_2/back/text.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/call_выбор_города_по_Б_2/back/text_keyboart.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/call_выбор_города_по_Б_2/call_sity_ABC.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/call_выбор_города_по_Б_2/kb_text.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/call_выбор_города_по_Б_2/keyboard.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/call_выбор_города_по_Б_2/text.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/delet/delet.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/комманда_стар_1/keyboard.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/комманда_стар_1/start.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/комманда_стар_1/text.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/комманда_стар_1/text_keyboart.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/Morse_Code/Morse.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/Morse_Code/SITY_MM.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/Morse_Code/sity_m.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/Morse_Code/Назад_морзе.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/call_sity_en/sity_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/call_sity_en/text.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/call_выбор_города/bark/call_sity_ABC_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/call_выбор_города/bark/kb_text.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/call_выбор_города/bark/keyboard.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/call_выбор_города/bark/text.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/call_выбор_города/call_sity_A.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/call_выбор_города/kb_text.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/call_выбор_города/keyboard.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/call_выбор_города/text.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/call_выбор_города_по_Б_2_en/back/back.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/call_выбор_города_по_Б_2_en/back/keyboard.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/call_выбор_города_по_Б_2_en/back/text.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/call_выбор_города_по_Б_2_en/back/text_keyboart.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/call_выбор_города_по_Б_2_en/call_sity_ABC.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/call_выбор_города_по_Б_2_en/kb_text.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/call_выбор_города_по_Б_2_en/keyboard.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/call_выбор_города_по_Б_2_en/text.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/ru/keyboard.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/ru/start1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/ru/text.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/ru/text_keyboart.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/ru/язык_en/keyboard.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/ru/язык_en/text.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/ru/язык_en/язык.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/комманда_стар_1_en/en_start.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/комманда_стар_1_en/kb_text.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/комманда_стар_1_en/keyboard.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/комманда_стар_1_en/text.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/комманда_стар_1_ru/keyboard.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/комманда_стар_1_ru/start2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/комманда_стар_1_ru/text.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/комманда_стар_1_ru/text_keyboart.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/язык_ru/keyboard.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/язык_ru/text.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/язык/язык_ru/язык1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shira_uki.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,27 +52,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.bot_weather (1)">
-    <configuration name="back1ru" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="S_weather_U" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ru" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ru/back1ru.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="bot_weather (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="S_weather_U" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,6 +65,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bot_weather.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_config" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="S_weather_U" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_config.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,10 +160,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.bot_weather (1)" />
+        <item itemvalue="Python.data_config" />
         <item itemvalue="Python.en_and_back3" />
         <item itemvalue="Python.en1" />
         <item itemvalue="Python.en2" />
-        <item itemvalue="Python.back1ru" />
       </list>
     </recent_temporary>
   </component>
